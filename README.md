@@ -1,16 +1,29 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Nurjov
 
-<!--
-**ANurik85/ANurik85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+Я full‑stack разработчик, закончил курс в Яндекс Практикуме.  
+Выбрал эту профессию, потому что мне нравится создавать понятные и полезные цифровые продукты.  
+Моя мотивация — развиваться в сфере веб‑разработки и приносить пользу людям через технологии.  
+Есть опыт учебных проектов: каталоги, интернет‑магазины и интерактивные интерфейсы.  
 
-Here are some ideas to get you started:
+## Навыки и технологии
+- **Языки программирования:** JavaScript (ES6+), TypeScript, Python (Изучаю) 
+- **Frontend:** React, Redux Toolkit, React Query, HTML5, CSS3, SCSS,  
+- **Backend:** Node.js, NestJS, Express, JWT, REST API  
+- **Базы данных:** PostgreSQL, MongoDB (Mongoose), ORM (TypeORM/Prisma)  
+- **DevOps:** Docker, docker‑compose, GitHub Actions, CI/CD  
+- **Тестирование:** Jest, React Testing Library, интеграционные тесты  
+- **Инструменты:** Git, Vite, Webpack, Postman, Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Портфолио
+- **Film Catalog (React, TypeScript):** SPA‑каталог фильмов с поиском и фильтрацией  
+- **WebLarek (React, Redux/RTK, Node.js, Mongoose):** интернет‑магазин и админ‑панель + backend API  
+- **Stellar Burgers (React, TypeScript):** интерактивный конструктор бургеров с API‑интеграцией и тестами  
+
+## Контакты
+- 📧 Email: almasovn85@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/nurjov-almasov-49418538b
+- 🐙 GitHub: https://github.com/ANurik85
+- 🌐 hh.ru: https://spb.hh.ru/resume/4c8dcc84ff0fcdb5b60039ed1f316131764961
+
+**Статус занятости:** открыт для предложений (full‑stack или backend разработчик, офис/гибрид/удалёнка).  
