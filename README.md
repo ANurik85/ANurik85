@@ -40,6 +40,9 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ANurik85&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANurik85&layout=compact&theme=radical)  
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANurik85&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANurik85&layout=compact&theme=radical" height="250"/>
+</div>
+
 
