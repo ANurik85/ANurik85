@@ -22,9 +22,9 @@
 ---
 
 ## 📂 Портфолио
-- 🎬 **Film Catalog (React, TypeScript):** SPA‑каталог фильмов с поиском и фильтрацией  
-- 🛒 **WebLarek (React, Redux/RTK, Node.js, Mongoose):** интернет‑магазин и админ‑панель + backend API  
-- 🍔 **Stellar Burgers (React, TypeScript):** интерактивный конструктор бургеров с API‑интеграцией и тестами  
+- **[WebLarek](https://github.com/ANurik85/web-larek-express)** — Интернет‑магазин и админ‑панель + backend API. `React` `Node.js` `MongoDB` `Redux/RTK`
+- **[Steallr Burgers](https://github.com/ANurik85/stellar-burgers)** —  Интерактивный конструктор бургеров с API‑интеграцией и тестам. `React` `TypeScript`
+- **[Film Catalog](https://github.com/ANurik85/film-react-nest)** — SPA‑каталог фильмов с поиском и фильтрацией. `React` `TypeScript`
 
 ---
 
